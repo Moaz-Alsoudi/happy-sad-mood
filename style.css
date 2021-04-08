@@ -1,0 +1,14 @@
+.Happyphoto{
+    float: left;
+}
+.sadphoto{ 
+float:left;
+}
+.txt{
+font-style: italic;
+}
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
