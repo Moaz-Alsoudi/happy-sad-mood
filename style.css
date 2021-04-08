@@ -12,3 +12,9 @@ font-style: italic;
     display: table;
     clear: both;
   }
+  body{
+
+    background-image: url(kir-simakov-ERq20AgFQgY-unsplash.jpg);
+   background-size:cover;
+   
+  }
